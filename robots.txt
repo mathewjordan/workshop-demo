@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mathewjordan.github.io/workshop-demo
+
+# Sitemaps
+Sitemap: https://mathewjordan.github.io/workshop-demo/sitemap.xml
